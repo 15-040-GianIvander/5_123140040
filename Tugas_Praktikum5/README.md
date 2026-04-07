@@ -89,7 +89,7 @@ Aplikasi ini telah mengimplementasikan fitur navigasi utama sebagai berikut:
 ---
 
 ## 🎥 Video Demo
-
+https://github.com/user-attachments/assets/bc016a0a-5054-4a6b-a766-b253fc520a00
 
 ---
 
