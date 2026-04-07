@@ -21,8 +21,8 @@ Pada latihan ini, aplikasi mengimplementasikan perpindahan layar dari daftar cat
 ---
 
 ## 📸 Screenshots Hasil
-- Layar Note List:
-- Layar Note Detail:
+- Layar Note List:<img width="1080" height="2400" alt="Screenshot_20260405_221049" src="https://github.com/user-attachments/assets/f190db75-fb9c-4093-abe2-5129ebe6e077" />
+- Layar Note Detail:<img width="1080" height="2400" alt="Screenshot_20260405_221058" src="https://github.com/user-attachments/assets/74645e52-f592-4d05-8313-7682064b39c9" />
 
 ---
 
