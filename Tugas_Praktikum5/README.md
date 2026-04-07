@@ -78,23 +78,13 @@ Aplikasi ini telah mengimplementasikan fitur navigasi utama sebagai berikut:
 ---
 
 ## 📸 Screenshots
-- **Home (Note List)**  
- <img width="1080" height="2400" alt="Screenshot_20260407_125658" src="https://github.com/user-attachments/assets/c0ebc3ed-1359-431c-b490-4601fbb8b502" />
+| Home (Note List) | Note Detail | Add / New Note |
+|:----------------:|:-----------:|:--------------:|
+| <img src="https://github.com/user-attachments/assets/c0ebc3ed-1359-431c-b490-4601fbb8b502" width="250"/> | <img src="https://github.com/user-attachments/assets/87a00b15-ea77-48de-ae2c-600f02de9607" width="250"/> | <img src="https://github.com/user-attachments/assets/d5547130-739a-4e22-8b1d-5a4fcc2808da" width="250"/> |
 
-- **Note Detail**  
-<img width="1080" height="2400" alt="Screenshot_20260407_125723" src="https://github.com/user-attachments/assets/87a00b15-ea77-48de-ae2c-600f02de9607" />
-
-- **Add / New Note**  
-<img width="1080" height="2400" alt="Screenshot_20260407_125739" src="https://github.com/user-attachments/assets/d5547130-739a-4e22-8b1d-5a4fcc2808da" />
-
-- **Edit Note**
-  <img width="1080" height="2400" alt="Screenshot_20260407_125752" src="https://github.com/user-attachments/assets/27c050ad-d31c-4f5c-8e9b-c22c7bb4dd83" />
-
-- **Favorites Notes**  
-<img width="1080" height="2400" alt="Screenshot_20260407_125810" src="https://github.com/user-attachments/assets/84333a8d-b668-4139-bc92-31b1db625fc8" />
-
-- **Profile**
-<img width="1080" height="2400" alt="Screenshot_20260407_125820" src="https://github.com/user-attachments/assets/6b2075d7-bd25-4803-8945-5bb4100ecc53" />
+| Edit Note | Favorites Notes | Profile |
+|:---------:|:---------------:|:-------:|
+| <img src="https://github.com/user-attachments/assets/27c050ad-d31c-4f5c-8e9b-c22c7bb4dd83" width="250"/> | <img src="https://github.com/user-attachments/assets/84333a8d-b668-4139-bc92-31b1db625fc8" width="250"/> | <img src="https://github.com/user-attachments/assets/6b2075d7-bd25-4803-8945-5bb4100ecc53" width="250"/> |
 
 ---
 
