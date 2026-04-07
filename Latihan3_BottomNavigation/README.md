@@ -57,5 +57,5 @@ implementation(\"org.jetbrains.androidx.navigation:navigation-compose:2.8.0-alph
 
 ## 📸 Dokumentasi Output 
 | Home Screen | Favorites Screen | Profile Screen |
-|:------------|:----------------:|---------------:|
-|             |                  |                |
+|:------------:|:----------------:|:---------------:|
+|<img width="1080" height="2400" alt="Screenshot_20260406_000857" src="https://github.com/user-attachments/assets/af0370a5-eeff-4044-aa05-bc120e5801d2" />|<img width="1080" height="2400" alt="Screenshot_20260406_000905" src="https://github.com/user-attachments/assets/15504233-2928-4738-8551-7450b3a0f7f9" />|<img width="1080" height="2400" alt="Screenshot_20260406_000910" src="https://github.com/user-attachments/assets/463edf0c-58ec-4585-aa2b-66cf7b1a2acd" />|
