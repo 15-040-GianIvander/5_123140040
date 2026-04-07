@@ -22,8 +22,8 @@ Aplikasi sederhana menggunakan **Kotlin Compose Multiplatform** dengan 2 layar:
 ---
 
 ## 📸 Output Program
-- Home Screen: 
-- Detail Screen: 
+- Home Screen: <img width="1080" height="2400" alt="Screenshot_20260405_200557" src="https://github.com/user-attachments/assets/ccdd5e77-7eaa-44aa-93f7-b01b8e36f8f2" />
+- Detail Screen: <img width="1080" height="2400" alt="Screenshot_20260405_200612" src="https://github.com/user-attachments/assets/8350dc33-8a23-4fce-b95e-8c73bb970bc1" />
 
 ---
 
