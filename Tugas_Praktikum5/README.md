@@ -100,7 +100,6 @@ Aplikasi ini telah mengimplementasikan fitur navigasi utama sebagai berikut:
 
 ## 🎥 Video Demo
 
-`[Link Video Demo]`
 
 ---
 
